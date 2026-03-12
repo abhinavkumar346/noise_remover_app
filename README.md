@@ -1,5 +1,17 @@
 # Audio Noise Remover Web Application
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.3%2B-000000?style=flat&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243?style=flat&logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-0.10%2B-FF6B6B?style=flat&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.10%2B-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![SoundFile](https://img.shields.io/badge/SoundFile-0.12%2B-4CAF50?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Client--Side-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![DSP](https://img.shields.io/badge/DSP-Spectral%20Gating-blueviolet?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 A Flask-based web application that removes background noise from audio files using spectral gating techniques. Upload your audio file and download a cleaned version instantly.
 
 ## Features
